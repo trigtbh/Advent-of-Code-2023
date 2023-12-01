@@ -17,13 +17,9 @@ for line in contents.split("\n"):
     n = [1, 2, 3, 4, 5, 6, 7, 8, 9]
     for i in range(9):
         line = line.replace(items[i], str(n[i]))
-
-
-
     
     chars = "".join([c for c in line if c in "1234567890"])
-    # print(chars[0], chars[-1])
-    # input()
+
 
     f += int(chars[0] + chars[-1])
 
