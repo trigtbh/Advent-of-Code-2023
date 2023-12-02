@@ -10,8 +10,8 @@ def get_input(year, day):
     if not os.path.exists(os.path.join(basepath, "inputs", f"{day}.txt")):
         contents = requests.get(f"https://adventofcode.com/{year}/day/{day}/input", cookies=cookies).text
         with open(os.path.join(basepath, "inputs", f"{day}.txt"), "w") as f:
-            f.write(contents)
+            f.write(contents.strip())
     else:
         with open(os.path.join(basepath, "inputs", f"{day}.txt"), "r") as f:
-            contents = f.read()
+            contents = f.read().strip()
     return contents
