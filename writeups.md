@@ -9,7 +9,6 @@
 - AND BY THE WAY
 - FIRST TIME EVER THAT I'VE GOTTEN IN THE TOP 100
 
-
 ## Day 3
 - started by searching for numbers next to characters
 - then switched *gears* to searching for characters next to numbers
