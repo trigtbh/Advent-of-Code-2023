@@ -14,3 +14,8 @@
 - then switched *gears* to searching for characters next to numbers
 - i think i got lucky that the numbers will only be adjacent to one gear
 - but i think this solution would work regardless of that...? will need to check later
+
+## Day 4
+- I think the best measure of progress is finding problems
+- and then seeing how quickly you're able to reason "ok this is why it isn't working, and this is how i could fix it"
+- pt 2 could have seriously messed me up but i'm glad i was able to get it fixed really quickly
