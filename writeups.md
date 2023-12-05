@@ -19,3 +19,10 @@
 - I think the best measure of progress is finding problems
 - and then seeing how quickly you're able to reason "ok this is why it isn't working, and this is how i could fix it"
 - pt 2 could have seriously messed me up but i'm glad i was able to get it fixed really quickly
+
+## Day 5
+- For the record,
+- ***I hate range splitting***
+- never ever ever ever ever got it to work
+- until tonight
+- BUT WE FINALLY MADE IT TO 20% COMPLETION
