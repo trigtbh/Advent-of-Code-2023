@@ -26,3 +26,7 @@
 - never ever ever ever ever got it to work
 - until tonight
 - BUT WE FINALLY MADE IT TO 20% COMPLETION
+
+## Day 6
+- Brute force
+- cough cough
