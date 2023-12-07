@@ -30,3 +30,10 @@
 ## Day 6
 - Brute force
 - cough cough
+
+## Day 7
+- Honestly thought regex would have been faster
+- choked HARD
+- but still completed within the hour
+- two years ago this would have taken me all the way to tomorrow
+- BUT ITS FINALLY ONE WEEK DONE
