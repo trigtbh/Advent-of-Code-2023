@@ -37,3 +37,8 @@
 - but still completed within the hour
 - two years ago this would have taken me all the way to tomorrow
 - BUT ITS FINALLY ONE WEEK DONE
+
+## Day 8
+- almost didn't occur to me to check common divisors GREATER than the length of the instructions
+- is it intentionally made that way?
+- part 2 **does not work** for the sample
